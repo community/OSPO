@@ -1,6 +1,6 @@
 # OSPO Discussions
 
-!https://octodex.github.com/images/collabocats.jpg
+![Octocats Collaborating](https://octodex.github.com/images/collabocats.jpg)
 
 ## Introduction
 
