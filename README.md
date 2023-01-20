@@ -12,7 +12,7 @@ The main purpose for this repo is to host the [Discussion forums](https://github
 
 ## Private discussion membership
 
-Similar to the [todogroup forums](https://github.com/todogroup/ospology), we have both a public, open discussion forum (here) as well as a private, invite-only forum for high-trust discussions under under Chatham House Rule, meaning
+Similar to the [todogroup forums](https://github.com/todogroup/ospology), we have both a public, open discussion forum (here) as well as a private, invite-only forum for high-trust discussions under Chatham House Rule, meaning
 
 > ... Participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.
 
