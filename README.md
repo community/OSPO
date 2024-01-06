@@ -1,5 +1,6 @@
 # OSPO Discussions
 
+![IMG_0209](https://github.com/IST-Github/OSPO/assets/155141998/2eb1e527-9f9e-4a10-9973-2e68160b0df0)
 ![IMG_0093](https://github.com/IST-Github/OSPO/assets/155141998/2c378129-e63d-49ed-9e30-a33cd1dd814a)
 ![IMG_6933](https://github.com/IST-Github/OSPO/assets/155141998/3a084bbd-c878-4fc3-9fbe-1eabdbbe15af)
 
