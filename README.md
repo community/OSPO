@@ -14,3 +14,4 @@ The main purpose for this repo is to host the [Discussion forums](https://github
 
 Discussions here are subject to the GitHub community [Code of Conduct](https://github.com/community/community/blob/main/CODE_OF_CONDUCT.md). 
 
+![IMG_0093](https://github.com/community/OSPO/assets/155141998/dea30316-018c-4bd9-bd5a-3a84fc7bb9ad)
