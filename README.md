@@ -11,7 +11,7 @@ This is a public repository for discussions relating to Open Source Program Offi
 
 The main purpose for this repo is to host the [Discussion forums](https://github.com/community/OSPO/discussions). The docs for GitHub Discussions are [available here](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions). 
 
-## COPYRIGHT of the OpenSourceCode by Isabel Schoeps Thiel IST-EDK (Grandfamily E.D.Knorig)
+## COPYRIGHT of the OpenSourceCode by Isabel Schoeps Thiel IST-EDK (Grandfamily E.D.Knoerig)
 
 Discussions here are subject to the GitHub community [Code of Conduct](https://github.com/community/community/blob/main/CODE_OF_CONDUCT.md). 
 
