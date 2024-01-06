@@ -1,6 +1,7 @@
 # OSPO Discussions
 
-![Octocats Collaborating](https://octodex.github.com/images/collabocats.jpg)
+![IMG_0093](https://github.com/IST-Github/OSPO/assets/155141998/2c378129-e63d-49ed-9e30-a33cd1dd814a)
+![IMG_6933](https://github.com/IST-Github/OSPO/assets/155141998/3a084bbd-c878-4fc3-9fbe-1eabdbbe15af)
 
 ## Introduction
 
